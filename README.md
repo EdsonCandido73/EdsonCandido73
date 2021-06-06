@@ -3,7 +3,7 @@
 - 🔭 I'm currently working on personal projects at ReactJS and React Native
 - 🌱 I'm currently learning ReactJS, React Native and NodeJS Javascript Stack
 - 👯 I’m looking to collaborate on ReactJS projects
-- 📫 How to reach me:  <a href="https://www.linkedin.com/in/edson-cândido-3b334b1b4/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@Edson-Candido-blue?style=flat&logo=linkedin"></a>  
+- 📫 How to reach me:  <a href="https://www.linkedin.com/in/edson-cândido-3b334b1b4/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@edson-cândido-3b334b1b4-blue?style=flat&logo=linkedin"></a>  
 <a href="mailto:edson.cursoprogramacao@gmail.com"><img alt="Email" src="https://img.shields.io/badge/edson.cursoprogramacao@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
